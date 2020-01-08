@@ -1,0 +1,370 @@
+body,td,th,div {
+	font-family:sans-serif;
+}
+
+body {
+	font-weight:400;
+}
+
+th {
+	font-weight:700;
+}
+
+p.paragraph_style {
+	margin-bottom:0.66em;
+	line-height:15px;
+	font-weight:400;
+	text-indent:0;
+}
+
+h2.paragraph_style {
+	margin-bottom:0.66em;
+	z-index:10000;
+	line-height:15px;
+}
+
+h3.paragraph_style {
+	margin-bottom:0.66em;
+	z-index:10000;
+	line-height:15px;
+}
+
+a.paragraph_style {
+	font-weight:400;
+	text-indent:0;
+}
+
+#page {
+}
+
+#book-contents p {
+	z-index:100;
+}
+
+p {
+	padding-top:0;
+	margin-bottom:1em;
+	z-index:100;
+	text-indent:0;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin-top:0;
+	margin-bottom:0.66em;
+	font-weight:700;
+	clear:both;
+}
+
+p {
+	clear:both;
+}
+
+h1 {
+	font-size:2em;
+}
+
+h2 {
+	color:#ff9b2f;
+	font-size:1.6em;
+}
+
+h3 {
+	margin:14px 0 6px;
+	font-size:1.3em;
+	color:green;
+}
+
+h4 {
+	color:#BD1D1D;
+}
+
+div.informalfigure {
+	margin:1px auto 10px;
+}
+
+div.informalfigure table {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+span.bold,strong {
+	font-weight:700;
+}
+
+div.informaltable {
+	border-top:0;
+	border-bottom:0;
+	margin-top:5px;
+	margin-bottom:5px;
+	border-left:0;
+	border-right:0;
+	border-style:solid;
+	border-color:#000;
+}
+
+div.informaltable table {
+	width:100%;
+	margin:2em 0;
+}
+
+div.toc {
+	display:none;
+}
+
+div.informaltable table {
+	border-width:0 1px;
+	border-spacing:0;
+	border-style:solid;
+	border-color:#000;
+	border-collapse:collapse;
+	background-color:#fff;
+}
+
+div.informaltable table th {
+	border-width:1px;
+	padding:3px;
+	border-style:solid;
+	border-color:#000;
+	background-color:#fff;
+}
+
+div.informaltable table td {
+	border-width:1px;
+	padding:3px;
+	border-style:solid;
+	border-color:#000;
+	background-color:#fff;
+}
+
+.book_title a {
+	color:#000;
+}
+
+.author_name {
+	font-style:italic;
+}
+
+.mediaobject table {
+	margin:.5em 0 1em;
+}
+
+pre,pre.programlisting {
+	color:blue;
+	clear:both;
+	margin:.5em 2em;
+	overflow:auto;
+	padding:.5em 2em;
+	white-space:pre-wrap;
+	word-wrap:break-word;
+}
+
+div.informalexample {
+	word-wrap:break-word;
+}
+
+pre.programlisting span.bold {
+	font-weight:700;
+}
+
+code.literal {
+	color:blue;
+}
+
+div.mediaobject img {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div.mediaobject {
+	margin-bottom:1em;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+div.note p {
+	clear:none;
+}
+
+.packt {
+/*	background-image:url(/images/packt_icon.png); */
+}
+
+div.section .title {
+	color:#ff9b2f;
+	font-weight:700;
+}
+
+div.section div.section .title {
+	color:green;
+	font-weight:700;
+}
+
+div.section div.section div.section .title {
+	color:#BD1D1D;
+	font-weight:700;
+}
+
+div.section div.section div.section div.section .title {
+	font-weight:700;
+}
+
+div.section div.section div.section div.section div.section .title {
+	font-weight:700;
+}
+
+div.section div.section div.section div.section div.section div.section .title {
+	font-weight:700;
+}
+
+body#page div.note h3 {
+	color:#000;
+}
+
+div.caption {
+	font-size:smaller;
+	font-style:italic;
+	text-align:center;
+	margin-top:.5em;
+	margin-bottom:1em;
+}
+
+div.preface p span.bold {
+	display:block;
+}
+
+div.preface pre span.bold {
+	display:inline;
+}
+
+div.preface div.section p span.bold {
+	display:inline;
+}
+
+div.section pre.programlisting span.bold {
+	float:left;
+	clear:left;
+}
+
+div.preface div.titlepage h2.title {
+	text-align:left;
+}
+
+div.note,div.tip,div.sidebar {
+	border:0 solid #999;
+	word-wrap:break-word;
+	margin:0 0 1em;
+	padding:0;
+	border:1px solid #777;
+	background-color:#e0e0e0;
+	clear:both;
+}
+
+div.note div.mediaobject {
+/*	width:80px; */
+	margin-bottom:1em;
+}
+
+ul,ol {
+	margin-bottom:1em;
+}
+
+li ul, li ol {
+	margin-top: 1em;
+}
+
+div.blockquote blockquote {
+	text-align:center;
+	font-style:italic;
+	margin:2em 0;
+}
+
+div.mediaobject table {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+pre.programlisting span.bold {
+	float:none;
+}
+
+div.note,div.tip {
+}
+
+div.note div.inner,div.tip div.inner,div.sidebar div.inner {
+	margin:.75em;
+}
+
+div.tip {
+	border-style:dashed;
+}
+
+div.note h3.title,div.tip h3.title {
+	color:#000;
+}
+
+em {
+	font-style:italic;
+}
+
+div.x-form-element {
+	padding-bottom:2px;
+}
+
+.w175 {
+	width:175px;
+}
+
+img.nframe {
+	margin-left:0;
+	width:600px;
+}
+
+div.note h2,div.note h3,div.tip h2,div.tip h3 {
+	color:#000!important;
+}
+
+div.note p,div.tip p,div.sidebar p,div.note ol,div.note ul {
+	width:100%;
+	margin-left:0!important;
+}
+
+ol.arabic,ol.arabic li {
+	list-style-type:decimal;
+}
+
+ol.lowerroman,ol.lowerroman li {
+	list-style-type:lower-roman;
+}
+
+ol.loweralpha,ol.loweralpha li {
+	list-style-type:lower-alpha;
+}
+
+
+/* Special top margins for list item content */
+
+li div.mediaobject,
+li div.note,
+li div.tip,
+li div.sidebar,
+li table,
+li h1,
+li h2,
+li h3, 
+li h4,
+li h5, 
+li h6 {
+	margin-top: 1em;
+}
+
+/* Special top margins for images inside divs */
+
+div.note div.mediaobject {
+	margin-top: 1em;
+}
