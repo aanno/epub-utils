@@ -7,10 +7,12 @@
 
 ## Kobo and Calibre
 
-* https://github.com/geek1011/Kobo-UNCaGED
+* https://github.com/shermp/Kobo-UNCaGED
 
 ## Alternative Readers
 
+* https://github.com/NiLuJe/kfmon
+  + https://www.mobileread.com/forums/showthread.php?t=274231
 * https://github.com/baskerville/plato
 * https://github.com/koreader/koreader
 * http://pbchess.vlasovsoft.net/en/index.html
@@ -22,3 +24,4 @@
 * https://pgaskin.net/kepubify/ (tool converting into kepub)
 * https://github.com/geek1011/kepubify/releases
 * https://github.com/kobolabs/epub-spec
+
