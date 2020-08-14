@@ -9,14 +9,18 @@
 
 * https://github.com/shermp/Kobo-UNCaGED
 
-## Alternative Readers
+## Alternative Launchers
 
 * https://github.com/NiLuJe/kfmon
   + https://www.mobileread.com/forums/showthread.php?t=274231
+* https://github.com/pgaskin/NickelMenu/
+  + https://www.mobileread.com/forums/showthread.php?t=329525
+
+## Alternative Readers
+
 * https://github.com/baskerville/plato
 * https://github.com/koreader/koreader
 * http://pbchess.vlasovsoft.net/en/index.html
-
 
 ## Kobo specs and formats
 
