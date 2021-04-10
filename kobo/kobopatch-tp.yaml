@@ -31,18 +31,18 @@ overrides:
     Increase size of kepub chapter progress chart: yes
   src/libadobe.so.yaml:
   src/libnickel.so.1.0.0.yaml:
-    # Increase page navigation history: yes
+    Increase page navigation history: yes
     Allow rotation on all devices: yes
     Enable advanced settings for all fonts: yes
     Custom kepub default margins: yes
     Set KePub hyphenation: yes
     Force user line spacing in KePubs: yes
     Force user line spacing in ePubs (part 1 of 2): yes
-    Un-Force user text-align in div,p tags in KePubs: yes
-    Un-Force user font-family in KePubs: yes
+    # Un-Force user text-align in div,p tags in KePubs: yes
+    # Un-Force user font-family in KePubs: yes
     ePub uniform font scale: yes
     Don't grab exclusive access to event0: yes
-    Un-force font-family override p tags (std epubs): yes
+    # Un-force font-family override p tags (std epubs): yes
     Always show confirmation dialog before upgrading: yes
     FeatureSettings - BookSpecificStats: yes
     FeatureSettings - MyWords: yes
