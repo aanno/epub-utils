@@ -1,7 +1,7 @@
 ## Works with kobopatch v0.15.0 and later.
 ## You can update kobopatch by downloading the latest release from https://github.com/pgaskin/kobopatch/releases. 
-version: 4.26.16704
-in: src/kobo-update-4.26.16704.zip
+version: 4.30.18838
+in: src/kobo-update-4.30.18838.zip
 out: out/KoboRoot.tgz
 log: out/log.txt
 
@@ -40,7 +40,7 @@ overrides:
     Force user line spacing in ePubs (part 1 of 2): yes
     # Un-Force user text-align in div,p tags in KePubs: yes
     # Un-Force user font-family in KePubs: yes
-    ePub uniform font scale: yes
+    Unify font sizes: yes
     Don't grab exclusive access to event0: yes
     # Un-force font-family override p tags (std epubs): yes
     Always show confirmation dialog before upgrading: yes
